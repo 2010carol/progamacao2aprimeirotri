@@ -1,4 +1,7 @@
-header {
-    background-color: #4581b9;
-    color: white;
+:root {
+    --cor-de-fundo: #EBECEE;
+}
+
+body{
+   background-color: var(--cor-de-fundo);
 }
